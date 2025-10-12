@@ -309,10 +309,10 @@ export default function OwlBookmarkDocs() {
           <p className="text-xl mb-8 text-amber-100">
             Join thousands of users who have organized their web browsing with Owl Bookmark Manager
           </p>
-          <button className="inline-flex items-center space-x-3 px-8 py-4 bg-white text-amber-600 hover:bg-amber-50 rounded-xl text-lg font-semibold shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all">
+           <a href="https://codeload.github.com/Krishna-10-7/Owl-Bookmarks/zip/refs/heads/master" className="inline-flex items-center space-x-3 px-8 py-4 bg-white text-amber-600 hover:bg-amber-50 rounded-xl text-lg font-semibold shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all">
             <Download className="w-6 h-6" />
             <span>Download Now</span>
-          </button>
+          </a>
         </div>
       </section>
 
