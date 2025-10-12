@@ -74,10 +74,10 @@ export default function OwlBookmarkDocs() {
           <p className="text-xl text-gray-700 mb-10 max-w-2xl mx-auto">
             Owl Bookmark Manager helps you save, organize, and find your bookmarks with the wisdom of an owl. Never lose track of important links again!
           </p>
-          <button className="inline-flex items-center space-x-3 px-8 py-4 bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-600 hover:to-orange-600 text-white rounded-xl text-lg font-semibold shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all">
+          <a href="https://codeload.github.com/Krishna-10-7/Owl-Bookmarks/zip/refs/heads/master" className="inline-flex items-center space-x-3 px-8 py-4 bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-600 hover:to-orange-600 text-white rounded-xl text-lg font-semibold shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all">
             <Download className="w-6 h-6" />
             <span>Download Extension</span>
-          </button>
+          </a>
           <p className="text-sm text-amber-700 mt-4">Version 1.0.0 • Chrome & Edge Compatible</p>
         </div>
       </section>
